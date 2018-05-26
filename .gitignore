@@ -1,0 +1,10 @@
+/package-lock.json
+/node_modules/
+/.next/
+
+!.empty
+
+#vim临时文件
+*.swp
+*~
+*.swo
